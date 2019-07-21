@@ -1,0 +1,19 @@
+#server:
+#  port: 8081
+#
+#
+#person:
+#  name: roy
+#  age: 26
+#  dog:
+#    name: tom
+#    age: 6
+#  color:
+#   - gloden
+#   - red
+#   - blue
+#  love:
+#    name: basketball
+#    address: school
+
+
