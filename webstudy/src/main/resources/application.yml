@@ -17,3 +17,17 @@
 #    address: school
 
 
+
+# ---可以将代码块分割，相当于两个文件 ，可以spring.profile.active=?来读取某一个代码块的内容
+server:
+  port: 8081
+spring:
+  profiles: dev
+
+---
+
+server:
+  port: 8082
+spring:
+  profiles: prod
+
